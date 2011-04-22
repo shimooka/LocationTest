@@ -1,0 +1,4 @@
+LocationTest
+============
+This sample application is for LocationManager#onLocationUpdates testing.
+If LocationManager#onLocationUpdates is called, some messages will be displayed on the screen.
